@@ -20,7 +20,7 @@ Based on the laboratory manual:
 ### 3. Circuit Diagram
 The setup involves connecting the oscilloscope lead from the Channel 1 input to the internal calibration (CAL) output terminal.
 
-<img src="./docs/schematic.jpg" alt="Circuit Diagram" width="70%">
+<img src="./docs/schematic.jpg" alt="Circuit Diagram" width="50%">
 
 ---
 
