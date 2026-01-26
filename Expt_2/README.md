@@ -79,18 +79,12 @@ The Emona Telecoms-Trainer 101 is a modular training platform used to study the 
 
 ---
 
-### Speech and Buffer Observations
-- Speech waveforms were **non-periodic**.
-- 2 kHz SINE and Speech were **audible**; 100 kHz SINE was **inaudible**.
 
-<img width="400" alt="Speech Module Waveform" src="./images/speech_wave.png" />
-
----
 
 ### Phase Shifter Module
 **Question:** Can it shift by 360°? 
 **Answer:** It can approach a full cycle shift depending on the control and toggle settings.
-
+ <img width="250" src="./images/phaseshiftermodule.png">
 #### Phase Shift Real-time Observation
 <video src="./images/phase_shift_video.mp4" width="400" controls>
   Your browser does not support the video tag.
@@ -105,15 +99,15 @@ The Emona Telecoms-Trainer 101 is a modular training platform used to study the 
 #### VCO Frequency Range Observations
 | HIGH MINIMUM | HIGH MAXIMUM |
 | :---: | :---: |
-| <img width="300" src="./images/vco_high_min.png"> | <img width="300" src="./images/vco_high_max.png"> |
+| <img width="300" src="./images/highminimum.png"> | <img width="300" src="./images/highmaximum.png"> |
 
 | LOW MINIMUM | LOW MAXIMUM |
 | :---: | :---: |
-| <img width="300" src="./images/vco_low_min.png"> | <img width="300" src="./images/vco_low_max.png"> |
+| <img width="300" src="./images/lowminimum.png"> | <img width="300" src="./images/lowmaximum.png"> |
 
 | ANTI-CLOCKWISE | CLOCKWISE |
 | :---: | :---: |
-| <img width="300" src="./images/vco_anti_clockwise.png"> | <img width="300" src="./images/vco_clockwise.png"> |
+| <img width="300" src="./images/anticlockwise.png"> | <img width="300" src="./images/clockwise.png"> |
 
 ---
 
