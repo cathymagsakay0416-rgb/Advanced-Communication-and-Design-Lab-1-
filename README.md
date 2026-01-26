@@ -1,6 +1,6 @@
 # Advanced-Communication-System-and-Design-Laboratory (LAB 1)
 
-This repository serves as my official submission for lab reports and projects. It is organized into a specific directory structure to ensure all documentation and data are easily accessible.
+This repository serves as my official submission for laboratory report 1 for Advanced Communication and Design. It is organized into a specific directory structure to ensure all documentation and data are easily accessible.
 
 ---
 
