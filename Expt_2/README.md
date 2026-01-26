@@ -86,9 +86,10 @@ The Emona Telecoms-Trainer 101 is a modular training platform used to study the 
 **Answer:** It can approach a full cycle shift depending on the control and toggle settings.
  <img width="250" src="./images/phaseshiftermodule.png">
 #### Phase Shift Real-time Observation
-<video src="./images/phase_shift_video.mp4" width="400" controls>
+<video src="https://github.com/user-attachments/assets/1f0bbe49-bad4-45f1-8f84-b01e068b8d89" width="400" controls>
   Your browser does not support the video tag.
 </video>
+  
 
 ---
 
