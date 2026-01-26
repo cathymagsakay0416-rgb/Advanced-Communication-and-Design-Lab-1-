@@ -83,7 +83,7 @@ By combining a DC offset with a message signal and feeding them into a multiplie
 2. Speak into the microphone and observe the oscilloscope.
 3. Note how the carrier peaks now mirror the irregular and complex patterns of human speech.
 
-<img width="569" height="404" alt="AM Circuit Model" src="./docs/expt4partb1.png" />
+<img width="569" height="404" alt="AM Circuit Model" src="./docs/expt4partb1.jpg" />
 
 
 
