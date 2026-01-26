@@ -14,7 +14,7 @@ Across these four experiments, the primary goals are:
 
 ---
 
-## 🧪 Experiments Summary
+## Experiments Summary
 
 | Experiment Number | Title | Link |
 | :--- | :--- | :--- |
