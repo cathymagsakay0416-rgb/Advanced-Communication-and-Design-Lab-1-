@@ -32,7 +32,7 @@ The Emona Telecoms-Trainer 101 is a modular training platform used to study the 
 ### Part 2.1 — Master Signals and Speech Module
 **Setup:** Connect the 2 kHz SINE output to Ch1 to measure basic parameters. For the Speech section, the microphone output is patched directly to the oscilloscope.
 
-<img width="500" alt="Speech Setup Diagram" src="./docs/speech_setup.png" />
+<img width="400" alt="Speech Setup Diagram" src="./docs/mastersignals.jpg" />
 
 1. **Master Signals:** Measured Vpp, Period, and Frequency for 2 kHz SINE, 100 kHz SINE, and 100 kHz COS.
 2. **Speech Module:** Spoke into the microphone and observed non-periodic waveforms.
@@ -40,7 +40,7 @@ The Emona Telecoms-Trainer 101 is a modular training platform used to study the 
 ### Part 2.2 — Buffer Module
 **Setup:** The output of a signal source (Master Signals or Speech) is patched to the Buffer Input. The headphones are connected to the Buffer Output.
 
-<img width="500" alt="Buffer Setup Diagram" src="./docs/buffer_setup.png" />
+<img width="400" alt="Buffer Setup Diagram" src="./docs/buffer.jpg" />
 
 1. Connected the 2 kHz SINE and Speech signals to the Buffer.
 2. Adjusted Buffer Gain and verified audibility through headphones.
@@ -48,7 +48,7 @@ The Emona Telecoms-Trainer 101 is a modular training platform used to study the 
 ### Part 2.3 — Adder and Phase Shifter Module
 **Setup:** Two signals (Ch1 and Ch2) are patched into the Adder inputs. For Phase shifting, the 2 kHz SINE is passed through the Phase Shifter module before reaching the scope.
 
-<img width="500" alt="Adder and Phase Shifter Setup" src="./docs/adder_phase_setup.png" />
+<img width="400" alt="Adder and Phase Shifter Setup" src="./docs/adderphseshifter.jpg" />
 
 1. **Adder Gain:** Connected 2 kHz SINE to Input A. Measured max/min gain by varying the G control.
 2. **Phase Shifter:** Observed input vs. output while turning Phase Adjust and toggling the 0°/180° switch.
@@ -56,7 +56,7 @@ The Emona Telecoms-Trainer 101 is a modular training platform used to study the 
 ### Part 2.4 — VCO Module
 **Setup:** The Variable DCV module provides a control voltage to the VCO input to manipulate the output frequency.
 
-<img width="500" alt="VCO Setup Diagram" src="./docs/vco_setup.png" />
+<img width="400" alt="VCO Setup Diagram" src="./docs/vco.jpg" />
 
 1. Measured VCO SINE output at HI and LO ranges.
 2. Verified the relationship between control voltage and output frequency.
